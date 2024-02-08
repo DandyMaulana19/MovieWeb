@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <>
-      <h1>halo</h1>
+      <h1 className="underline text-3-xl bg-slate-500">halo</h1>
     </>
   );
 };
